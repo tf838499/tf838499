@@ -7,7 +7,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="300" alt="hello!" src="https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF)" >
+    <img width="300" alt="hello!" src="https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF" >
   </td>
   <td>
   </td>
