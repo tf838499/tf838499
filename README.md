@@ -32,14 +32,6 @@
 
 ## **Long intro**
 
-Hi there 👋! I am Claudia, a hearing impaired (🦻) community builder and founder, who wants to make the tech industry more accessible and inclusive.
-The last five years I have been building <a href="https://womendotcode.be" target="_blank">women.code(be)</a>, **a supportive network for women who code, who are living in Belgium**. 
-
-Thanks to my prior career experiences in tech I have been doing a lot of different things that allowed me to grow women.code(be) into the community that it is today. I did everything from web development (mostly specialised in frontend), design (UX / UI) to product management.
-
-More recently, I also started as <b>career coach at <a href="https://becode.org" target="_blank">BeCode </a></b> (A Belgian coding bootcamp), where I play an important part in supporting and guiding bootcamp students, so they can start their career in tech with confidence. 
-
-Occassionally, you might also run into me at a <a href="https://fronteersbe.github.io" target="_blank">Fronteers meetup</a> , as I am currently the main **organiser Fronteers Belgium**. I still love being actively involved in the local front-end community, even though I am currently more of a hobby developer. 😊
 
 <br><br>
 
