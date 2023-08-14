@@ -13,19 +13,19 @@
   </td>
   <td>
 
-💁‍♀️  Community Founder & Manager [@womendotcodebe](https://github.com/womendotcodebe)
+💁‍♀️  
 
-👩‍🏫  Career Coach [@BeCode](https://github.com/becodeorg) Ghent
+👩‍🏫 
 
-👩‍🏫  Event Organiser [@fronteersbe](https://github.com/fronteersbe) meetups
+👩‍🏫  
 
-👩‍💻  Front-end Designer (A11Y, UX & UI design, static websites, sustainable design & development) 
+👩‍💻  
 
-🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
+🎮  
 
-😻  Loving cats, 🍹 Tiki bars, 🌳 Forests
+😻  
 
-🌱 Part of the movement to increase Diversity, Inclusion, Accessibility and Sustainability in Tech 
+🌱 
   </td>
 </tr>
 </table>
