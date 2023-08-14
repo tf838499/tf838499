@@ -7,7 +7,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="300" alt="hello!" src="https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF" >
+    <img width="300" alt="hello!" src="[https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF](https://tenor.com/zh-TW/view/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-gif-27157125)" >
   </td>
   <td>
   </td>
@@ -61,6 +61,8 @@
 - 🦜 [Twitter](https://twitter.com/claudia_rndrs)
 - 🏀 [Dribbble](https://dribbble.com/)
 <!--
+https://tenor.com/zh-TW/view/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-gif-27157125
+https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF"
 **tf838499/tf838499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
