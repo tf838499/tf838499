@@ -13,15 +13,15 @@
   </td>
   <td>
 
-💁‍♀️  
+Backend engineer  
 
-👩‍🏫 
 
-👩‍🏫  
+🎮  Anime, Game enthusias, a geek 
+
 
 👩‍💻  
 
-🎮  
+
 
 😻  
 
@@ -58,8 +58,7 @@
 
 ## **Socials**
 
-- 🦜 [Twitter](https://twitter.com/claudia_rndrs)
-- 🏀 [Dribbble](https://dribbble.com/)
+
 <!--
 https://tenor.com/zh-TW/view/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-gif-27157125
 https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF"
