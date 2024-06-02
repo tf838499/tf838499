@@ -1,53 +1,41 @@
-### Hi there 👋
-<img width="1280" alt="hello!" src="cover-gh.png">
-<br>
 
 
-## **Short intro**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=2000&pause=1000&color=BC3BF7&random=false&lines=Hi+I'm+ken%F0%9F%91%8B;I'm+a+backend+developer;Have+a+nice+day%F0%9F%98%89)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=D744F7&random=false&lines=Welcom+to+my+Github+profile%F0%9F%98%80;Go%2C+Python%2C+C%23%2C+Vue%2C+Docker%2C+CICD%2C+AI;+++++)](https://git.io/typing-svg)
+<!-- <img width="1280" alt="hello!" src="cover-gh.png">
+<br> -->
+
+
+## **About Me**
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="300" alt="hello!" src="https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF" >
+    <img width="200" alt="hello!" src="https://truth.bahamut.com.tw/s01/202212/da66c222effd531703ba0017eb517217.GIF" >
   </td>
   <td>
   </td>
   <td>
 
-Backend engineer  
-
-
-🎮  Anime, Game enthusias, a geek 
-
-
-👩‍💻  
-
-
-
-😻  
-
-🌱 
+- 🔭 I'm currently a newbie backend developer 
+- 🌱 I’m currently learning Go, AWS, AI, everything
+- 📫 Reach me out at tf88981213@gmail.com.
+- ⚡ You can check my [Resume](https://www.linkedin.com/in/323716211/) for more details about work experience.
   </td>
 </tr>
 </table>
 
-## **Long intro**
 
 
 <br><br>
 
-## 🛠️ **Building projects with:**
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://11ty.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/124e337fb005b0e70eb3758b431b051eaf5419b3a709062fbcce6d661a6ea116/68747470733a2f2f7777772e313174792e6465762f696d672f6c6f676f2d6769746875622e737667" width="36" height="36" alt="Eleventy" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
+## 🛠️ **Languages and Tools:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 <br>
 
 
@@ -56,7 +44,7 @@ Backend engineer
 ![mangamaui's Stats](https://github-readme-stats.vercel.app/api?username=tf838499&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![mangamaui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tf838499&theme=jolly&hide_border=true)
 
-## **Socials**
+
 
 
 <!--
